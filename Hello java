@@ -1,0 +1,4 @@
+Class Hello java{
+public static void main(String [] arg){
+System.out.println("Scaler Accademy")
+}}
